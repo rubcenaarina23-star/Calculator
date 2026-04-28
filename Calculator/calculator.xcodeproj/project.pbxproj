@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		1D1ED22B2F697DCA00A4BAE0 /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DAC2D122FA08845000CDD1B /* calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1D1ED22D2F697DCA00A4BAE0 /* Calculator */ = {
+		1DAC2D142FA08845000CDD1B /* calculator */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Calculator;
+			path = calculator;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1D1ED2282F697DCA00A4BAE0 /* Frameworks */ = {
+		1DAC2D0F2FA08845000CDD1B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1D1ED2222F697DCA00A4BAE0 = {
+		1DAC2D092FA08845000CDD1B = {
 			isa = PBXGroup;
 			children = (
-				1D1ED22D2F697DCA00A4BAE0 /* Calculator */,
-				1D1ED22C2F697DCA00A4BAE0 /* Products */,
+				1DAC2D142FA08845000CDD1B /* calculator */,
+				1DAC2D132FA08845000CDD1B /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1D1ED22C2F697DCA00A4BAE0 /* Products */ = {
+		1DAC2D132FA08845000CDD1B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D1ED22B2F697DCA00A4BAE0 /* Calculator.app */,
+				1DAC2D122FA08845000CDD1B /* calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D1ED22A2F697DCA00A4BAE0 /* Calculator */ = {
+		1DAC2D112FA08845000CDD1B /* calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D1ED2362F697DCC00A4BAE0 /* Build configuration list for PBXNativeTarget "Calculator" */;
+			buildConfigurationList = 1DAC2D1D2FA08847000CDD1B /* Build configuration list for PBXNativeTarget "calculator" */;
 			buildPhases = (
-				1D1ED2272F697DCA00A4BAE0 /* Sources */,
-				1D1ED2282F697DCA00A4BAE0 /* Frameworks */,
-				1D1ED2292F697DCA00A4BAE0 /* Resources */,
+				1DAC2D0E2FA08845000CDD1B /* Sources */,
+				1DAC2D0F2FA08845000CDD1B /* Frameworks */,
+				1DAC2D102FA08845000CDD1B /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1D1ED22D2F697DCA00A4BAE0 /* Calculator */,
+				1DAC2D142FA08845000CDD1B /* calculator */,
 			);
-			name = Calculator;
+			name = calculator;
 			packageProductDependencies = (
 			);
-			productName = Calculator;
-			productReference = 1D1ED22B2F697DCA00A4BAE0 /* Calculator.app */;
+			productName = calculator;
+			productReference = 1DAC2D122FA08845000CDD1B /* calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1D1ED2232F697DCA00A4BAE0 /* Project object */ = {
+		1DAC2D0A2FA08845000CDD1B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2630;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
-					1D1ED22A2F697DCA00A4BAE0 = {
+					1DAC2D112FA08845000CDD1B = {
 						CreatedOnToolsVersion = 26.3;
 					};
 				};
 			};
-			buildConfigurationList = 1D1ED2262F697DCA00A4BAE0 /* Build configuration list for PBXProject "Calculator" */;
+			buildConfigurationList = 1DAC2D0D2FA08845000CDD1B /* Build configuration list for PBXProject "calculator" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 1D1ED2222F697DCA00A4BAE0;
+			mainGroup = 1DAC2D092FA08845000CDD1B;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 1D1ED22C2F697DCA00A4BAE0 /* Products */;
+			productRefGroup = 1DAC2D132FA08845000CDD1B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D1ED22A2F697DCA00A4BAE0 /* Calculator */,
+				1DAC2D112FA08845000CDD1B /* calculator */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1D1ED2292F697DCA00A4BAE0 /* Resources */ = {
+		1DAC2D102FA08845000CDD1B /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1D1ED2272F697DCA00A4BAE0 /* Sources */ = {
+		1DAC2D0E2FA08845000CDD1B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1D1ED2342F697DCC00A4BAE0 /* Debug */ = {
+		1DAC2D1B2FA08847000CDD1B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		1D1ED2352F697DCC00A4BAE0 /* Release */ = {
+		1DAC2D1C2FA08847000CDD1B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -243,7 +243,7 @@
 			};
 			name = Release;
 		};
-		1D1ED2372F697DCC00A4BAE0 /* Debug */ = {
+		1DAC2D1E2FA08847000CDD1B /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -261,7 +261,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arina.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = arina.calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		1D1ED2382F697DCC00A4BAE0 /* Release */ = {
+		1DAC2D1F2FA08847000CDD1B /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,7 +291,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arina.Calculator;
+				PRODUCT_BUNDLE_IDENTIFIER = arina.calculator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -306,25 +306,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D1ED2262F697DCA00A4BAE0 /* Build configuration list for PBXProject "Calculator" */ = {
+		1DAC2D0D2FA08845000CDD1B /* Build configuration list for PBXProject "calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1D1ED2342F697DCC00A4BAE0 /* Debug */,
-				1D1ED2352F697DCC00A4BAE0 /* Release */,
+				1DAC2D1B2FA08847000CDD1B /* Debug */,
+				1DAC2D1C2FA08847000CDD1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1D1ED2362F697DCC00A4BAE0 /* Build configuration list for PBXNativeTarget "Calculator" */ = {
+		1DAC2D1D2FA08847000CDD1B /* Build configuration list for PBXNativeTarget "calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1D1ED2372F697DCC00A4BAE0 /* Debug */,
-				1D1ED2382F697DCC00A4BAE0 /* Release */,
+				1DAC2D1E2FA08847000CDD1B /* Debug */,
+				1DAC2D1F2FA08847000CDD1B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1D1ED2232F697DCA00A4BAE0 /* Project object */;
+	rootObject = 1DAC2D0A2FA08845000CDD1B /* Project object */;
 }
