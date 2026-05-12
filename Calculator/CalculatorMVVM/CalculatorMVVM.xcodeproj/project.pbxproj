@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		1D3938CE2FA3267F00F258C3 /* SimpleCalculatorMVVM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleCalculatorMVVM.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D3A93AE2FB2F119009E15FA /* CalculatorMVVM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CalculatorMVVM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		1D3938D02FA3267F00F258C3 /* SimpleCalculatorMVVM */ = {
+		1D3A93B02FB2F119009E15FA /* CalculatorMVVM */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = SimpleCalculatorMVVM;
+			path = CalculatorMVVM;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		1D3938CB2FA3267F00F258C3 /* Frameworks */ = {
+		1D3A93AB2FB2F119009E15FA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1D3938C52FA3267F00F258C3 = {
+		1D3A93A52FB2F119009E15FA = {
 			isa = PBXGroup;
 			children = (
-				1D3938D02FA3267F00F258C3 /* SimpleCalculatorMVVM */,
-				1D3938CF2FA3267F00F258C3 /* Products */,
+				1D3A93B02FB2F119009E15FA /* CalculatorMVVM */,
+				1D3A93AF2FB2F119009E15FA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		1D3938CF2FA3267F00F258C3 /* Products */ = {
+		1D3A93AF2FB2F119009E15FA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D3938CE2FA3267F00F258C3 /* SimpleCalculatorMVVM.app */,
+				1D3A93AE2FB2F119009E15FA /* CalculatorMVVM.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1D3938CD2FA3267F00F258C3 /* SimpleCalculatorMVVM */ = {
+		1D3A93AD2FB2F119009E15FA /* CalculatorMVVM */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1D3938D92FA3268100F258C3 /* Build configuration list for PBXNativeTarget "SimpleCalculatorMVVM" */;
+			buildConfigurationList = 1D3A93B92FB2F11A009E15FA /* Build configuration list for PBXNativeTarget "CalculatorMVVM" */;
 			buildPhases = (
-				1D3938CA2FA3267F00F258C3 /* Sources */,
-				1D3938CB2FA3267F00F258C3 /* Frameworks */,
-				1D3938CC2FA3267F00F258C3 /* Resources */,
+				1D3A93AA2FB2F119009E15FA /* Sources */,
+				1D3A93AB2FB2F119009E15FA /* Frameworks */,
+				1D3A93AC2FB2F119009E15FA /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				1D3938D02FA3267F00F258C3 /* SimpleCalculatorMVVM */,
+				1D3A93B02FB2F119009E15FA /* CalculatorMVVM */,
 			);
-			name = SimpleCalculatorMVVM;
+			name = CalculatorMVVM;
 			packageProductDependencies = (
 			);
-			productName = SimpleCalculatorMVVM;
-			productReference = 1D3938CE2FA3267F00F258C3 /* SimpleCalculatorMVVM.app */;
+			productName = CalculatorMVVM;
+			productReference = 1D3A93AE2FB2F119009E15FA /* CalculatorMVVM.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		1D3938C62FA3267F00F258C3 /* Project object */ = {
+		1D3A93A62FB2F119009E15FA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 2630;
 				LastUpgradeCheck = 2630;
 				TargetAttributes = {
-					1D3938CD2FA3267F00F258C3 = {
+					1D3A93AD2FB2F119009E15FA = {
 						CreatedOnToolsVersion = 26.3;
 					};
 				};
 			};
-			buildConfigurationList = 1D3938C92FA3267F00F258C3 /* Build configuration list for PBXProject "SimpleCalculatorMVVM" */;
+			buildConfigurationList = 1D3A93A92FB2F119009E15FA /* Build configuration list for PBXProject "CalculatorMVVM" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 1D3938C52FA3267F00F258C3;
+			mainGroup = 1D3A93A52FB2F119009E15FA;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 1D3938CF2FA3267F00F258C3 /* Products */;
+			productRefGroup = 1D3A93AF2FB2F119009E15FA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1D3938CD2FA3267F00F258C3 /* SimpleCalculatorMVVM */,
+				1D3A93AD2FB2F119009E15FA /* CalculatorMVVM */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		1D3938CC2FA3267F00F258C3 /* Resources */ = {
+		1D3A93AC2FB2F119009E15FA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		1D3938CA2FA3267F00F258C3 /* Sources */ = {
+		1D3A93AA2FB2F119009E15FA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		1D3938D72FA3268100F258C3 /* Debug */ = {
+		1D3A93B72FB2F11A009E15FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		1D3938D82FA3268100F258C3 /* Release */ = {
+		1D3A93B82FB2F11A009E15FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -243,7 +243,7 @@
 			};
 			name = Release;
 		};
-		1D3938DA2FA3268100F258C3 /* Debug */ = {
+		1D3A93BA2FB2F11A009E15FA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -261,7 +261,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arina.SimpleCalculatorMVVM;
+				PRODUCT_BUNDLE_IDENTIFIER = arina.CalculatorMVVM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -273,7 +273,7 @@
 			};
 			name = Debug;
 		};
-		1D3938DB2FA3268100F258C3 /* Release */ = {
+		1D3A93BB2FB2F11A009E15FA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -291,7 +291,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = arina.SimpleCalculatorMVVM;
+				PRODUCT_BUNDLE_IDENTIFIER = arina.CalculatorMVVM;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -306,25 +306,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1D3938C92FA3267F00F258C3 /* Build configuration list for PBXProject "SimpleCalculatorMVVM" */ = {
+		1D3A93A92FB2F119009E15FA /* Build configuration list for PBXProject "CalculatorMVVM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1D3938D72FA3268100F258C3 /* Debug */,
-				1D3938D82FA3268100F258C3 /* Release */,
+				1D3A93B72FB2F11A009E15FA /* Debug */,
+				1D3A93B82FB2F11A009E15FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1D3938D92FA3268100F258C3 /* Build configuration list for PBXNativeTarget "SimpleCalculatorMVVM" */ = {
+		1D3A93B92FB2F11A009E15FA /* Build configuration list for PBXNativeTarget "CalculatorMVVM" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1D3938DA2FA3268100F258C3 /* Debug */,
-				1D3938DB2FA3268100F258C3 /* Release */,
+				1D3A93BA2FB2F11A009E15FA /* Debug */,
+				1D3A93BB2FB2F11A009E15FA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 1D3938C62FA3267F00F258C3 /* Project object */;
+	rootObject = 1D3A93A62FB2F119009E15FA /* Project object */;
 }

@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct SimpleCalculatorMVVMApp: App {
+struct CalculatorApp: App {
     var body: some Scene {
         WindowGroup {
             CalculatorView()
